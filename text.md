@@ -1,6 +1,6 @@
 ---
-Title: Demystifying VoIP: SIP, RTP, and Server Architecture.
-Subtitle: Master the core components behind modern IP phone systems.
+Title: "Demystifying VoIP: SIP, RTP, and Server Architecture."
+Subtitle: "Master the core components behind modern IP phone systems."
 Author: Eugenio
 Status: student
 ---
